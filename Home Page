@@ -1,0 +1,47 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="WEBSITE.css"/>
+<title>Home Page</title>
+</head>
+<body>
+<div class="header">
+<div class="heading">
+<h1 class="c0">CODING</h1>
+<h1 class="c1">SCHOOL</h1>
+</div> 
+</div>
+<div class="menu">
+<a href="WEBSITE_SUPPORT.html"><div class="ss">C Language</div></a>
+<a href="#home">
+<div class="block">
+<div class="bars"></div>
+<div class="bars"></div>
+<div class="bars"></div>
+</div>
+</a>
+</div>
+ 
+<div class="section">
+
+<h2> Basics Of C</h2>
+ <a href="WEBSITE_SUPPORT.html">Overview of C Language</a>
+ <a href="WEBSITE_SUPPORT_FEATURES.html ">Features of C</a>
+ <a href="WEBSITE_FIRST_PRO.html">First C Program and it's Structure</a>
+ <a href=" ">C syntax rules</a>
+<a href=" ">keywords and Identifires</a>
+<a href=" ">Data Types</a>
+<a href=" ">Variables</a>
+<a href=" ">Switch Statements</a>
+<a href=" ">Arrays</a>
+<a href=" ">Strings and Character Array</a>
+<a href=" ">Loops</a>
+<a href=" ">Storage Classes</a>
+</div>
+<div class="main">
+ <h1>C LANGUAGE</h1>
+ <p>A general purpose programming language</p>
+<div class="bb"><a href="WEBSITE_SUPPORT.html">Learn C</a>
+</div>
+</body>
+</html>
